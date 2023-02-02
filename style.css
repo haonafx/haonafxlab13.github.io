@@ -1,0 +1,13 @@
+.bg-img1, .bg-img2, .bg-img3 {
+    height: 500px;
+    background-position: center;
+    background-image: url("https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg");
+    background-color: grey;
+    background-blend-mode: multiply;
+}
+.bg-img2 {
+    background-image: url("https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg");
+}
+.bg-img3 {
+    background-image: url("https://images.pexels.com/photos/3041110/pexels-photo-3041110.jpeg");
+}
